@@ -18,6 +18,8 @@ KNN
 
 Built using:
 
+Run this code:
+  Copy this command: **streamlit run app.py**
 Python
 Streamlit
 Scikit Learn
